@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1526516118 source:c:\users\planta alta\desktop\newfolder\utn\programacion\parcial1\estacionamiento\fun.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"fun.h"
+
+1526516106 c:\users\planta alta\desktop\newfolder\utn\programacion\parcial1\estacionamiento\fun.h
+
+1526516164 source:c:\users\planta alta\desktop\newfolder\utn\programacion\parcial1\estacionamiento\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"fun.h"
+
